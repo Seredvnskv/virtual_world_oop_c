@@ -1,0 +1,598 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\TworzSwiat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:TworzSwiat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Czlowiek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Czlowiek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Swiat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Swiat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Zwierze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Zwierze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Czlowiek.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Czlowiek.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Zolw.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Zolw.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Organizm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Organizm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Swiat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Swiat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Trawa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Trawa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Roslina.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Roslina.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Roslina.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Roslina.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Antylopa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Antylopa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Zwierze.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Zwierze.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Lis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Lis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Lis.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Lis.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Zdarzenia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Zdarzenia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Organizm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Organizm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Owca.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Owca.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Zolw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Zolw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Antylopa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Antylopa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\TworzSwiat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:TworzSwiat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Trawa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Trawa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Mlecz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Mlecz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Mlecz.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Mlecz.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Guarana.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Guarana.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Guarana.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Guarana.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\WilczeJagody.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:WilczeJagody.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\WilczeJagody.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:WilczeJagody.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\BarszczSosnowskiego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:BarszczSosnowskiego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\BarszczSosnowskiego.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:BarszczSosnowskiego.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Wilk.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Wilk.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Wilk.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Wilk.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Owca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Owca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Zdarzenie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EE5B74-689A-44D4-9B9D-1F4A3AAEBF49}|ConsoleApplication1.vcxproj|solutionrelative:Zdarzenie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\savegame.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:savegame.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Antylopa.h",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Antylopa.h",
+              "RelativeDocumentMoniker": "Antylopa.h",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Antylopa.h",
+              "RelativeToolTip": "Antylopa.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-18T00:08:07.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Antylopa.cpp",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Antylopa.cpp",
+              "RelativeDocumentMoniker": "Antylopa.cpp",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Antylopa.cpp",
+              "RelativeToolTip": "Antylopa.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T00:07:40.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Zolw.h",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Zolw.h",
+              "RelativeDocumentMoniker": "Zolw.h",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Zolw.h",
+              "RelativeToolTip": "Zolw.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T23:21:33.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Zolw.cpp",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Zolw.cpp",
+              "RelativeDocumentMoniker": "Zolw.cpp",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Zolw.cpp",
+              "RelativeToolTip": "Zolw.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T23:21:25.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Lis.h",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Lis.h",
+              "RelativeDocumentMoniker": "Lis.h",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Lis.h",
+              "RelativeToolTip": "Lis.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T11:44:31.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Lis.cpp",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Lis.cpp",
+              "RelativeDocumentMoniker": "Lis.cpp",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Lis.cpp",
+              "RelativeToolTip": "Lis.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T11:44:24.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Owca.h",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Owca.h",
+              "RelativeDocumentMoniker": "Owca.h",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Owca.h",
+              "RelativeToolTip": "Owca.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T11:11:38.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "ConsoleApplication1.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T10:08:09.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Organizm.cpp",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Organizm.cpp",
+              "RelativeDocumentMoniker": "Organizm.cpp",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Organizm.cpp",
+              "RelativeToolTip": "Organizm.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAE8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T10:09:27.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Organizm.h",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Organizm.h",
+              "RelativeDocumentMoniker": "Organizm.h",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Organizm.h",
+              "RelativeToolTip": "Organizm.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T10:09:54.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Roslina.cpp",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Roslina.cpp",
+              "RelativeDocumentMoniker": "Roslina.cpp",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Roslina.cpp",
+              "RelativeToolTip": "Roslina.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T12:48:22.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Roslina.h",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Roslina.h",
+              "RelativeDocumentMoniker": "Roslina.h",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Roslina.h",
+              "RelativeToolTip": "Roslina.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T12:48:31.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Zwierze.h",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Zwierze.h",
+              "RelativeDocumentMoniker": "Zwierze.h",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Zwierze.h",
+              "RelativeToolTip": "Zwierze.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T11:09:04.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Zwierze.cpp",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Zwierze.cpp",
+              "RelativeDocumentMoniker": "Zwierze.cpp",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Zwierze.cpp",
+              "RelativeToolTip": "Zwierze.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAABoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T11:08:57.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Zdarzenia.cpp",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Zdarzenia.cpp",
+              "RelativeDocumentMoniker": "Zdarzenia.cpp",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Zdarzenia.cpp",
+              "RelativeToolTip": "Zdarzenia.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-14T13:00:05.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Zdarzenie.h",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Zdarzenie.h",
+              "RelativeDocumentMoniker": "Zdarzenie.h",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Zdarzenie.h",
+              "RelativeToolTip": "Zdarzenie.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-14T13:00:14.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Trawa.cpp",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Trawa.cpp",
+              "RelativeDocumentMoniker": "Trawa.cpp",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Trawa.cpp",
+              "RelativeToolTip": "Trawa.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T12:49:56.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Owca.cpp",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Owca.cpp",
+              "RelativeDocumentMoniker": "Owca.cpp",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Owca.cpp",
+              "RelativeToolTip": "Owca.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T11:11:28.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Wilk.h",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Wilk.h",
+              "RelativeDocumentMoniker": "Wilk.h",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Wilk.h",
+              "RelativeToolTip": "Wilk.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T11:11:17.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Czlowiek.h",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Czlowiek.h",
+              "RelativeDocumentMoniker": "Czlowiek.h",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Czlowiek.h",
+              "RelativeToolTip": "Czlowiek.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T22:20:53.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Czlowiek.cpp",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Czlowiek.cpp",
+              "RelativeDocumentMoniker": "Czlowiek.cpp",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Czlowiek.cpp",
+              "RelativeToolTip": "Czlowiek.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T22:20:45.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Wilk.cpp",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Wilk.cpp",
+              "RelativeDocumentMoniker": "Wilk.cpp",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Wilk.cpp",
+              "RelativeToolTip": "Wilk.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T11:11:10.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TworzSwiat.cpp",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\TworzSwiat.cpp",
+              "RelativeDocumentMoniker": "TworzSwiat.cpp",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\TworzSwiat.cpp",
+              "RelativeToolTip": "TworzSwiat.cpp",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAAALIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T11:12:56.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TworzSwiat.h",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\TworzSwiat.h",
+              "RelativeDocumentMoniker": "TworzSwiat.h",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\TworzSwiat.h",
+              "RelativeToolTip": "TworzSwiat.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T11:13:11.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Swiat.cpp",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Swiat.cpp",
+              "RelativeDocumentMoniker": "Swiat.cpp",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Swiat.cpp",
+              "RelativeToolTip": "Swiat.cpp",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAI0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T10:09:02.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Swiat.h",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Swiat.h",
+              "RelativeDocumentMoniker": "Swiat.h",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Swiat.h",
+              "RelativeToolTip": "Swiat.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T10:09:11.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "savegame.txt",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\savegame.txt",
+              "RelativeDocumentMoniker": "savegame.txt",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\savegame.txt",
+              "RelativeToolTip": "savegame.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-22T17:48:16.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BarszczSosnowskiego.h",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\BarszczSosnowskiego.h",
+              "RelativeDocumentMoniker": "BarszczSosnowskiego.h",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\BarszczSosnowskiego.h",
+              "RelativeToolTip": "BarszczSosnowskiego.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T13:34:09.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BarszczSosnowskiego.cpp",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\BarszczSosnowskiego.cpp",
+              "RelativeDocumentMoniker": "BarszczSosnowskiego.cpp",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\BarszczSosnowskiego.cpp",
+              "RelativeToolTip": "BarszczSosnowskiego.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T13:33:55.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WilczeJagody.h",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\WilczeJagody.h",
+              "RelativeDocumentMoniker": "WilczeJagody.h",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\WilczeJagody.h",
+              "RelativeToolTip": "WilczeJagody.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T13:22:33.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WilczeJagody.cpp",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\WilczeJagody.cpp",
+              "RelativeDocumentMoniker": "WilczeJagody.cpp",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\WilczeJagody.cpp",
+              "RelativeToolTip": "WilczeJagody.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T13:22:20.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Guarana.h",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Guarana.h",
+              "RelativeDocumentMoniker": "Guarana.h",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Guarana.h",
+              "RelativeToolTip": "Guarana.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T13:14:21.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Guarana.cpp",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Guarana.cpp",
+              "RelativeDocumentMoniker": "Guarana.cpp",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Guarana.cpp",
+              "RelativeToolTip": "Guarana.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T13:14:11.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Mlecz.h",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Mlecz.h",
+              "RelativeDocumentMoniker": "Mlecz.h",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Mlecz.h",
+              "RelativeToolTip": "Mlecz.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T12:53:27.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Mlecz.cpp",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Mlecz.cpp",
+              "RelativeDocumentMoniker": "Mlecz.cpp",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Mlecz.cpp",
+              "RelativeToolTip": "Mlecz.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T12:53:19.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Trawa.h",
+              "DocumentMoniker": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Trawa.h",
+              "RelativeDocumentMoniker": "Trawa.h",
+              "ToolTip": "C:\\Users\\Sambor\\Desktop\\studia\\OOP\\ConsoleApplication1\\Trawa.h",
+              "RelativeToolTip": "Trawa.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T12:50:04.845Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
